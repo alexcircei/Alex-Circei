@@ -1,17 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Alex Circei personal page
 
-You can use the [editor on GitHub](https://github.com/alexcircei/alexcircei/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2017 - Waydev 🚀
+2015 - Billme invoicing app ⚰️
+2014 - Copimaj ERP ⚰️
+2013 - Lupsale email marketing platform ⚰️
+2011 - Storebeez eCommerce marketplace platform ⚰️
+2010 - Live2c eCommerce Platform 🍾
+2009 - Copimaj Interactive online marketing agency 🎓🔥
+2008 - livemag.ro online store 🍾
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-Test
 
 # Header 1
 ## Header 2
@@ -23,9 +20,8 @@ Test
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**** 
+[Twitter](http://www.twitter.com/alexcircei) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
