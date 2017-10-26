@@ -1,5 +1,5 @@
-## Welcome to my page
 # ALEX CIRCEI | **CEO** WAYDEV, INC.
+## Welcome to my personal page. 
 
 
 ## My path
@@ -20,3 +20,12 @@
 - [Facebook](http://www.facebook.com/alexcircei)
 - [Medium](https://medium.com/@alexcircei)
 - [Quora](https://www.quora.com/profile/Alex-Circei)
+
+## Triathlon & Running
+
+- **Running 21K** 12x
+- **Running 42K** 2x
+- **Olimpic Triathlons** 7x
+- **Half Ironman Distance** 6x
+- **Ironman Distance** 1x
+- **Ironman Wales** 3x DNF
