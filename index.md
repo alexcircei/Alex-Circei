@@ -1,4 +1,4 @@
-# ALEX CIRCEI | **CEO** WAYDEV, INC.
+# ALEX CIRCEI | **CEO** WAYDEV
 ## Welcome to my personal page. 
 
 
@@ -13,10 +13,20 @@
 - 2009 - Copimaj Interactive online marketing agency 🎓🔥 [portfolio](http://www.copimaj.com/portofolio/)
 - 2008 - livemag.ro online store 🍾  [interview](http://www.capital.ro/ebono-electronics-a-achizitionat-livemagro-152047.html)
 
-## Social Links
+## Social
 
 - [Twitter](http://www.twitter.com/alexcircei)
 - [Linkedin](http://www.linkedin.com/in/alexcircei)
+- [Instagram](https://www.instagram.com/alexcircei/)
+- [Facebook](http://www.facebook.com/alexcircei)
+- [Medium](https://medium.com/@alexcircei)
+- [Quora](https://www.quora.com/profile/Alex-Circei)
+
+## Press
+
+- [Business24 - The Ironman entrepreneur](http://www.business24.ro/companii/manageri/alex-circei-antreprenorul-ironman-calatoresc-prin-prisma-sportului-si-a-afacerii-pe-care-o-conduc-1562048)
+- [Linkedin](http://www.linkedin.com/in/alexcircei)
+- [Instagram](https://www.instagram.com/alexcircei/)
 - [Facebook](http://www.facebook.com/alexcircei)
 - [Medium](https://medium.com/@alexcircei)
 - [Quora](https://www.quora.com/profile/Alex-Circei)
@@ -29,3 +39,9 @@
 - **Half Ironman Distance** 6x
 - **Ironman Distance** 1x
 - **Ironman Wales** 3x DNF
+
+
+## Contact
+
+- alexatwaydevdotco
+
