@@ -4,7 +4,7 @@
 
 ## My path
 
-- 2017 - Waydev 🚀 [Software Development Analytics](https://waydev.co)
+- 2017 - Waydev 🚀 [software development analytics](https://waydev.co)
 - 2015 - Billme invoicing app ⚰️  [video presentation](https://www.youtube.com/watch?v=YuSoxkxBpLs)
 - 2014 - Copimaj ERP ⚰️  [interview](http://www.businessmagazin.ro/business-hi-tech/it/un-tanar-antreprenor-din-online-spera-sa-dea-lovitura-cu-un-erp-ieftin-13692685)
 - 2013 - Lupsale email marketing platform ⚰️  [video presentation](https://www.youtube.com/watch?v=fNHoE-vK5JE)
