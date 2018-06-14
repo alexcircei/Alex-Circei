@@ -1,6 +1,19 @@
-# ALEX CIRCEI | **CEO** WAYDEV
+# ALEX CIRCEI | **CEO & Founder** WAYDEV
 ## Welcome to my personal page. 
 
+[The CEO Library about me](https://www.theceolibrary.com/alex-circei-12833.html) - "Alex Cîrcei is the founder of multiple businesses, currently focused on building Waydev – a software development tool that helps non-technical entrepreneurs better understand what their software development team does.
+
+Waydev is dedicated to startups, technology companies, and digital agencies up to 30 employees. It’s a tool suitable for anyone who needs to work with developers, but finds it difficult to understand how their work is measured. Waydev uses weekly reports to keep its clients up-to-speed with the progress (sort of a Google Analytics for software development projects).
+
+Alex is a serial entrepreneur, who founded and led several other businesses in the past decade, most of them related to the eCommerce space. He’s the CEO and founder of Copimaj, a digital eCommerce full service agency, through which he launched several other projects and services for brands.
+
+He started by building an IT&C online store he launched 10 years ago, called LiveMag. He later started developing his own products dedicated to eCommerce: he launched Live2c, an eCommerce platform that helped small, local businesses create online shops integrated with their suppliers – it was the first SaaS eCommerce platform in Romania, his home country.
+
+A few years later, Alex founded StoreBeez, a marketplace platform that led to a 3-months experience at the Birmingham Oxygen Accelerator – an intensive bootcamp for tech startups. Before leaving, he sold two of his previous businesses, LiveMag and Live2C.
+
+Upon returning from UK, he went on and launched an email marketing platform called Lupsale at the TechCrunch Disrupt 2013 San Francisco conference. In 2014, after realizing a gap in the market, he built an accessible ERP (entreprise resource planning) and, one year later, he launched an invoicing app called BillMe.
+
+One thing that helped build his business discipline is the fact that he’s an Ironman competitor. For those of you who are unfamiliar with the term: Ironman is the name given to the long-distance triathlon races – these are some of the most challenging endurance sports events in the world. It consists of a series of continuous sports trials: you start with a 2.4-mile (3.86 km) swim, continue with a 112-mile (180.25 km) bicycle ride, and end by running a marathon (26.22-mile / 42.20 km), raced in that order and without taking any breaks between them."
 
 ## My path
 
@@ -24,6 +37,7 @@
 
 ## Press
 
+- [The CEO Library - Alex Cîrcei, CEO & Founder of Waydev, on How Richard Branson Changed His Life](https://www.theceolibrary.com/alex-circei-12833.html)
 - [Business24 - The Ironman entrepreneur](http://www.business24.ro/companii/manageri/alex-circei-antreprenorul-ironman-calatoresc-prin-prisma-sportului-si-a-afacerii-pe-care-o-conduc-1562048)
 - [ZF - He attacks the USA market with the invoice on WhatsApp](http://www.zf.ro/business-hi-tech/un-antreprenor-roman-ataca-piata-din-sua-cu-factura-pe-whatsapp-14759504)
 - [ZF - Copimaj has developed an online marketing automation platform with 150,000 euro revenue in the first months of use](http://www.zf.ro/business-hi-tech/copimaj-a-dezvoltat-o-platforma-de-automatizare-in-marketingul-online-cu-venituri-de-150-000-de-euro-in-primele-luni-de-utilizare-16019525)
